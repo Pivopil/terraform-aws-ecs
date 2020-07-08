@@ -27,3 +27,8 @@ override.tf.json
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
+/.idea/
+/3-application/.mvn/
+/3-application/mvnw
+/3-application/mvnw.cmd
+/3-application/infrastructure/springbootapp.jar
